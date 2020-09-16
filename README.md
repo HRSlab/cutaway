@@ -1,6 +1,6 @@
 # cutaway
 
-![Website](https://img.shields.io/website?color=yellow&down_color=red&down_message=oh%20no%21&label=stato&logo=%20&logoColor=%20&up_color=green&up_message=online&url=http%3A%2F%2Fitcutaway.cutawayapp.it)
+![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&label=status&up_color=green&up_message=UP&url=https%3A%2F%2Fitcutaway.cutawayapp.it)
 
 ### Issues and Bugs report
 
