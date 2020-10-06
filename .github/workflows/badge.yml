@@ -1,4 +1,4 @@
-- name: Create Awesome Badge
+  name: Create Awesome Badge
   uses: schneegans/dynamic-badges-action@v1.0.0
   with:
     auth: ${{ secrets.BADGE_SECRET }}
