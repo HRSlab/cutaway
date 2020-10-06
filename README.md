@@ -1,6 +1,8 @@
 # cutaway
 
-**Current Status:** ![Website](https://img.shields.io/website?down_color=red&down_message=DOWN&label=status&up_color=green&up_message=UP&url=https%3A%2F%2Fitcutaway.cutawayapp.it)
+**Current Status:** [Website](https://img.shields.io/website?down_color=red&down_message=DOWN&label=status&up_color=green&up_message=UP&url=https%3A%2F%2Fitcutaway.cutawayapp.it)
+
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/HRSlab/cutawayapp?logo=Dependabot&logoColor=%23fafafa)
 
 ### Issues and Bugs report
 
