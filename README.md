@@ -1,5 +1,10 @@
 # cutaway
 
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=ncloc)](https://sonarcloud.io/dashboard?id=HRSlab_cutawayapp)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=HRSlab_cutawayapp)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=sqale_index)](https://sonarcloud.io/dashboard?id=HRSlab_cutawayapp)
+
+
 **Current Status:** 
 
 [![status](https://img.shields.io/website?down_color=red&down_message=DOWN&label=status&up_color=green&up_message=UP&url=http%3A%2F%2Fitcutaway.cutawayapp.it)](https://img.shields.io/website?down_color=red&down_message=DOWN&label=status&up_color=green&up_message=UP&url=http%3A%2F%2Fitcutaway.cutawayapp.it)
