@@ -7,12 +7,12 @@
 
 ## Reliability
 **On New Code**
-Bugs: 4
-Remediation Effort: 1h
+-[X] Bugs: 4
+-[X]Remediation Effort: 1h
 
 **On Previous Code**
-Bugs: 1684
-Remediation Effort: 12d
+-[X] Bugs: 1684
+-[X] Remediation Effort: 12d
 
 ![reliability](https://photos.smugmug.com/photos/i-j28ThrH/0/ab55e4a1/X3/i-j28ThrH-X3.png)
 
@@ -20,14 +20,14 @@ Remediation Effort: 12d
 
 ## Security
 **On New Code**
-Vulnerabilities: 0
-Remediation Effort: 0
-Security Hotspots: 0
+-[X] Vulnerabilities: 0
+-[X] Remediation Effort: 0
+-[X] Security Hotspots: 0
 
 **On Previous Code**
-Vulnerabilities: 64
-Remediation Effort: 1d 4h
-Security Hotspots: 394
+-[X] Vulnerabilities: 64
+-[X] Remediation Effort: 1d 4h
+-[X] Security Hotspots: 394
 
 ![security](https://photos.smugmug.com/photos/i-WTMkwVw/0/883d5a9b/X3/i-WTMkwVw-X3.png)
 
@@ -35,41 +35,41 @@ Security Hotspots: 394
 ## Maintainability
 
 **On New Code**
-Code Smells: 83
-Tech Debt: 6h 55min
-Debt Ratio: 0.0%
+-[X]Code Smells: 83
+-[X]Tech Debt: 6h 55min
+-[X] Debt Ratio: 0.0%
 
 **On Previous Code**
-Code Smells: 18841
-Tech Debt: 344d
-Debt Ratio: 0.0%
+-[X]Code Smells: 18841
+-[X]Tech Debt: 344d
+-[X] Debt Ratio: 0.0%
 
 ![maintainability](https://photos.smugmug.com/photos/i-BK6mmkC/0/f02e6a14/X3/i-BK6mmkC-X3.png)
 
 ## Duplications
 
 **On New Code**
-Duplicated Lines: 0
-Duplicated Blocks: 0
+-[X] Duplicated Lines: 0
+-[X] Duplicated Blocks: 0
 
 **On Previous Code**
-Density: 9.1%
-Duplicated Lines: 95,823
-Duplicated Blocks: 3,231
-Duplicated Files: 462
+-[X] Density: 9.1%
+-[X] Duplicated Lines: 95,823
+-[X] Duplicated Blocks: 3,231
+-[X] Duplicated Files: 462
 
 ![duplications](https://photos.smugmug.com/photos/i-vHbCMMv/0/66c11313/X3/i-vHbCMMv-X3.png)
 
 ## Size
 
-Size: XL
-Lines of Code: 626,540
-Lines: 1,049,173
-Statements: 273,332
-Functions: 37,872
-Classes: 2,073
-Files: 3,111
-Comment Lines: 170,261
-Comments (%): 21.4%
+-[X] Size: XL
+-[X] Lines of Code: 626,540
+-[X] Lines: 1,049,173
+-[X] Statements: 273,332
+-[X] Functions: 37,872
+-[X] Classes: 2,073
+-[X] Files: 3,111
+-[X] Comment Lines: 170,261
+-[X] Comments (%): 21.4%
 
 ![size](https://photos.smugmug.com/photos/i-Q5qbWWN/0/42288131/X3/i-Q5qbWWN-X3.png)
