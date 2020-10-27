@@ -8,12 +8,10 @@
 ## Reliability
 
 **On New Code**
-
 - Bugs: 4
 - Remediation Effort: 1h
 
 **On Previous Code**
-
 - Bugs: 1684
 - Remediation Effort: 12d
 
@@ -22,8 +20,8 @@
 
 
 ## Security
-**On New Code**
 
+**On New Code**
 - Vulnerabilities: 0
 - Remediation Effort: 0
 - Security Hotspots: 0
@@ -39,31 +37,28 @@
 ## Maintainability
 
 **On New Code**
-
 - Code Smells: 83
-
 - Tech Debt: 6h 55min
-
 -  Debt Ratio: 0.0%
 
 **On Previous Code**
 - Code Smells: 18841
 - Tech Debt: 344d
--  Debt Ratio: 0.0%
+- Debt Ratio: 0.0%
 
 ![maintainability](https://photos.smugmug.com/photos/i-BK6mmkC/0/f02e6a14/X3/i-BK6mmkC-X3.png)
 
 ## Duplications
 
 **On New Code**
--[X] Duplicated Lines: 0
--[X] Duplicated Blocks: 0
+- Duplicated Lines: 0
+- Duplicated Blocks: 0
 
 **On Previous Code**
--[X] Density: 9.1%
--[X] Duplicated Lines: 95,823
--[X] Duplicated Blocks: 3,231
--[X] Duplicated Files: 462
+- Density: 9.1%
+- Duplicated Lines: 95,823
+- Duplicated Blocks: 3,231
+- Duplicated Files: 462
 
 ![duplications](https://photos.smugmug.com/photos/i-vHbCMMv/0/66c11313/X3/i-vHbCMMv-X3.png)
 
