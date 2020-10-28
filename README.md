@@ -1,8 +1,8 @@
 # cutaway
 
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=ncloc)]
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=vulnerabilities)]
-[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=sqale_index)]
+![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=ncloc)
+![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=vulnerabilities)
+![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=sqale_index)
 
 
 **Current Status:** 
