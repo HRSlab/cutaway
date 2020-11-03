@@ -1,5 +1,7 @@
 # CutAway App
 
+![ipabadge](https://img.shields.io/badge/compile-failed-critical?logo=ios) ![apkbadge](https://img.shields.io/badge/compile-compiled-success?logo=android)
+
 ![Sonar Violations (short format)](https://img.shields.io/sonar/blocker_violations/HRSlab_cutawayapp?server=https%3A%2F%2Fsonarcloud.io) ![Sonar Violations (short format)](https://img.shields.io/sonar/critical_violations/HRSlab_cutawayapp?server=https%3A%2F%2Fsonarcloud.io) ![Sonar Violations (short format)](https://img.shields.io/sonar/major_violations/HRSlab_cutawayapp?server=https%3A%2F%2Fsonarcloud.io) ![Sonar Violations (short format)](https://img.shields.io/sonar/minor_violations/HRSlab_cutawayapp?color=brightgreen&server=https%3A%2F%2Fsonarcloud.io) ![Sonar Violations (short format)](https://img.shields.io/sonar/info_violations/HRSlab_cutawayapp?color=blue&server=https%3A%2F%2Fsonarcloud.io) 
 
 ![sonarcompare](https://photos.smugmug.com/photos/i-z9H9pbP/0/bbed4de9/X3/i-z9H9pbP-X3.png)
