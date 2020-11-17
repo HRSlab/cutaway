@@ -4,11 +4,11 @@
 ![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=vulnerabilities)
 ![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=HRSlab_cutawayapp&metric=sqale_index)
 
+![Build Status](https://travis-ci.org/HRSlab/prjdoc.svg?branch=master)
 
 **Current Status:** 
 
 [![status](https://img.shields.io/website?down_color=red&down_message=DOWN&label=status&up_color=green&up_message=UP&url=http%3A%2F%2Fitcutaway.cutawayapp.it)](https://img.shields.io/website?down_color=red&down_message=DOWN&label=status&up_color=green&up_message=UP&url=http%3A%2F%2Fitcutaway.cutawayapp.it)
-
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/HRSlab/cutawayapp?logo=Dependabot&logoColor=%23fafafa)
 
 ### Issues and Bugs report
